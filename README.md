@@ -1,5 +1,5 @@
 # Asignatura de Sistemas Operativos Avanzados
-
+https://docencia.ac.upc.edu/FIB/grau/SOA/
 ## TEORÍA
 - Apuntes para los dos parciales a partir de las clases de teoría.
 - Exámenes resueltos.
@@ -10,8 +10,7 @@ Consiste en diseñar e implementar un sistema operativo llamado ZeOS a partir de
 
 - **Lab**: 
   - **Entrega 1.** Implementar llamadas a sistema y gestión de interrupciones.
-    > Nota E1= 10/10
   - **Entrega 2.** Diseñar e implementar las estructuras de datos y algoritmo para la gestión de procesos en un sistema multiproceso.
    
-- **Proyecto.** Implementar un juego a partir del código de las entregas anteriores. El juego desarrollado ha sido el de Space Invaders.
+- **Proyecto.** Implementar un juego a partir del código de las entregas anteriores. El juego desarrollado ha sido el de **Space Invaders**.
 > Nota Proyecto = 10/10
